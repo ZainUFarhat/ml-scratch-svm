@@ -36,7 +36,7 @@ For each dataset I will share the test accuracy and show the decision boundary p
 - Numerical Result:
      - Accuracy = 100.0%
 
-- See visualizations below:
+- See visualization below:
 
  ![alt text](https://github.com/ZainUFarhat/ml-scratch-svm/blob/main/plots/blobs/blobs_decision_boundary.png?raw=true) 
 
@@ -45,7 +45,7 @@ For each dataset I will share the test accuracy and show the decision boundary p
 - Numerical Result:
      - Accuracy = 95.61%
 
-- See visualizations below:
+- See visualization below:
 
  ![alt text](https://github.com/ZainUFarhat/ml-scratch-svm/blob/main/plots/bc/bc_decision_boundary.png?raw=true)
 
@@ -54,6 +54,6 @@ For each dataset I will share the test accuracy and show the decision boundary p
 - Numerical Result:
      - Accuracy = 73.03%
 
-- See visualizations below:
+- See visualization below:
 
  ![alt text](https://github.com/ZainUFarhat/ml-scratch-svm/blob/main/plots/db/db_decision_boundary.png?raw=true)
